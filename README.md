@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AldoAlan99
-- 👀 I’m interested in playing video games
+- 👀 I’m interested in Creation of video games 
 - 🌱 I’m currently learning c++ and plus
 - 💞️ I’m looking to collaborate on ... whoever
 - 📫 How to reach me ...
